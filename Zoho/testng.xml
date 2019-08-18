@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <test name="onChrome">
+    <classes>
+      <class name="test.LoginPage8"/>
+   
+      <class name="test.LoginPage7"/>
+      
+      <class name="test.LoginPage6"/>
+      
+      <class name="test.LoginPage5"/>
+      
+      <class name="test.LoginPage4"/>
+      
+      <class name="test.LoginPage3"/>
+      
+      <class name="test.LoginPage2"/>
+      
+      <class name="test.LoginPage1"/>
+      
+      <class name="test.LoginPage"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
